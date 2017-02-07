@@ -1,7 +1,331 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc3120a7-3091-4c9f-b305-bde10e204eed" name="Default" comment="" />
+    <list default="true" id="dc3120a7-3091-4c9f-b305-bde10e204eed" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\accordion.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\calendar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\combo.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\combobox.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\combobox_data.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\combogrid.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\combotree.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\datagrid.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\datagrid2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\datagrid3.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\datagrid4.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\datagrid5.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\datagrid_data.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\datagrid_data2.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\datagrid_data3.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\datebox.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\datetimebox.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\demo.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\draggable.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\droppable.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\droppable1.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\droppable2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\easyloader.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\form.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\form_data.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\layout.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\layout1.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\layout2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\linkbutton.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\menu.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\menubutton.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\messager.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\numberbox.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\numberbox2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\numberspinner.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\panel.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\panel2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\progressbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\propertygrid.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\propertygrid_data.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\resizable.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\searchbox.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\slider.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\splitbutton.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\tabs.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\tabs_href_test.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\timespinner.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\tree.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\tree2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\tree_data.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\treegrid.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\treegrid2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\treegrid3.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\treegrid_data.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\treegrid_data2.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\treegrid_data3.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\treegrid_subdata.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\validatebox.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\demo\window.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\easyloader.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\jquery-1.7.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\jquery.easyui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\licence_gpl.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\license_commercial.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-af.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-bg.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-cs.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-cz.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-da.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-de.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-en.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-es.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-fr.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-nl.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-tr.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-zh_CN.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\locale\easyui-lang-zh_TW.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.accordion.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.combo.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.combobox.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.combogrid.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.combotree.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.datagrid.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.datebox.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.datetimebox.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.draggable.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.droppable.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.form.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.layout.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.linkbutton.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.menu.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.menubutton.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.messager.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.numberbox.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.numberspinner.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.pagination.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.panel.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.parser.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.progressbar.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.propertygrid.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.resizable.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.searchbox.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.slider.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.spinner.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.splitbutton.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.tabs.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.timespinner.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.tree.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.treegrid.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.validatebox.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\plugins\jquery.window.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\accordion.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\calendar.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\combo.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\combobox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\datagrid.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\datebox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\easyui.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\accordion_collapse.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\accordion_expand.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\button_a_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\button_plain_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\button_span_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\calendar_nextmonth.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\calendar_nextyear.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\calendar_prevmonth.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\calendar_prevyear.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\combo_arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\datagrid_header_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\datagrid_row_collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\datagrid_row_expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\datagrid_sort_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\datagrid_sort_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\datagrid_title_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\datebox_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\layout_button_down.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\layout_button_left.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\layout_button_right.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\layout_button_up.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\menu_downarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\menu_rightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\menu_sep.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\menu_split_downarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\messager_error.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\messager_info.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\messager_question.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\messager_warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\pagination_first.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\pagination_last.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\pagination_load.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\pagination_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\pagination_next.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\pagination_prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\panel_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\panel_title.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\panel_tool_collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\panel_tool_expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\panel_tools.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\searchbox_button.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\slider_handle.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\spinner_arrow_down.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\spinner_arrow_up.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tabs_active.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tabs_close.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tabs_enabled.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tabs_leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tabs_rightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tree_arrows.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tree_checkbox_0.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tree_checkbox_1.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tree_checkbox_2.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tree_dnd_no.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tree_dnd_yes.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tree_elbow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tree_file.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tree_folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tree_folder_open.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\tree_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\validatebox_pointer.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\images\validatebox_warning.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\layout.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\linkbutton.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\menu.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\menubutton.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\messager.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\pagination.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\panel.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\progressbar.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\propertygrid.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\searchbox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\slider.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\spinner.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\splitbutton.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\tabs.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\tree.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\validatebox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\default\window.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\accordion.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\calendar.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\combo.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\combobox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\datagrid.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\datebox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\easyui.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\accordion_collapse.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\accordion_expand.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\button_a_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\button_plain_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\button_span_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\calendar_nextmonth.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\calendar_nextyear.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\calendar_prevmonth.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\calendar_prevyear.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\combo_arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\datagrid_header_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\datagrid_row_collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\datagrid_row_expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\datagrid_sort_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\datagrid_sort_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\datagrid_title_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\datebox_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\layout_button_down.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\layout_button_left.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\layout_button_right.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\layout_button_up.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\menu_downarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\menu_rightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\menu_sep.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\menu_split_downarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\messager_error.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\messager_info.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\messager_question.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\messager_warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\pagination_first.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\pagination_last.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\pagination_load.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\pagination_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\pagination_next.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\pagination_prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\panel_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\panel_title.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\panel_tool_collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\panel_tool_expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\panel_tools.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\searchbox_button.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\slider_handle.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\spinner_arrow_down.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\spinner_arrow_up.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tabs_close.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tabs_enabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tabs_leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tabs_rightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tree_arrows.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tree_checkbox_0.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tree_checkbox_1.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tree_checkbox_2.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tree_dnd_no.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tree_dnd_yes.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tree_elbow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tree_file.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tree_folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tree_folder_open.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\tree_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\validatebox_pointer.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\images\validatebox_warning.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\layout.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\linkbutton.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\menu.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\menubutton.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\messager.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\pagination.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\panel.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\progressbar.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\propertygrid.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\searchbox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\slider.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\spinner.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\splitbutton.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\tabs.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\tree.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\validatebox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\gray\window.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icon.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\back.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\cancel.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\cut.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\edit_add.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\edit_remove.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\filesave.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\help.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\mini_add.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\mini_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\mini_refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\no.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\ok.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\pencil.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\print.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\redo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\reload.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\search.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\sum.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\tip.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Works\2016\baseWeb\web\js\jquery-easyui-1.2.6\themes\icons\undo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/stu/003_easyloader.jsp" afterPath="$PROJECT_DIR$/web/stu/003_easyloader.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,16 +351,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="111" column="80" selection-start-line="111" selection-start-column="80" selection-end-line="111" selection-end-column="80" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="UserServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/com/orenda/servlet/UserServlet.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,26 +373,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="001_message.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="001_message.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/stu/001_message.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6098266">
-              <caret line="68" column="85" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.1875">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="baseweb2.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/sql/baseweb2.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="119" column="31" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state>
+              <first_editor vertical-scroll-proportion="0.19827586">
+                <caret line="4" column="5" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
-          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="003_easyloader.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/stu/003_easyloader.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5620438">
+              <caret line="25" column="68" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -145,6 +469,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -153,8 +485,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/com/unicom/business/client/MyApplication.java" />
-        <option value="$PROJECT_DIR$/src/cn/com/orenda/utils/ConfigUtil.java" />
         <option value="$PROJECT_DIR$/src/cn/com/orenda/utils/DbUtil.java" />
         <option value="$PROJECT_DIR$/src/cn/com/orenda/utils/DateUtil.java" />
         <option value="$PROJECT_DIR$/src/cn/com/orenda/dao/AppMenuDAO.java" />
@@ -204,6 +534,8 @@
         <option value="$PROJECT_DIR$/web/jsp/tree.jsp" />
         <option value="$PROJECT_DIR$/web/jsp/study.jsp" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/web/stu/003_easyloader.jsp" />
       </list>
     </option>
   </component>
@@ -247,11 +579,11 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="false" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="0" id="Add" />
@@ -316,7 +648,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="stu" />
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -330,7 +662,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,6 +714,116 @@
       <recent name="cn.com.orenda.web" />
       <recent name="cn.com.orenda" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunManager" selected="Tomcat Server.baseWeb">
     <configuration default="false" name="HelloLog4j" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -1116,7 +1562,7 @@
       <workItem from="1486168113478" duration="1345000" />
       <workItem from="1486340520573" duration="1541000" />
       <workItem from="1486345906218" duration="601000" />
-      <workItem from="1486431031073" duration="52000" />
+      <workItem from="1486431031073" duration="885000" />
     </task>
     <servers />
   </component>
@@ -1132,7 +1578,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40742000" />
+    <option name="totallyTimeSpent" value="41575000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1145,7 +1591,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1155,18 +1601,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2400881" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20149253" sideWeight="0.4942717" order="0" side_tool="false" content_ui="combo" x="466" y="71" width="348" height="627" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23240939" sideWeight="0.5057283" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5517621" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23017621" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1178,7 +1625,6 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1250,16 +1696,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/images/004.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/005.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33239436">
@@ -1429,41 +1865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/jquery-easyui-1.2.6/themes/default/easyui.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/jquery-easyui-1.2.6/themes/icon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/jquery-easyui-1.2.6/jquery-1.7.2.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/jquery-easyui-1.2.6/jquery.easyui.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/jquery-easyui-1.2.6/locale/easyui-lang-zh_CN.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/js/jquery-easyui-1.5.1/src/easyloader.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1616,8 +2017,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/stu/001_message.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6098266">
-          <caret line="68" column="85" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state vertical-scroll-proportion="-7.1875">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state>
+          <first_editor vertical-scroll-proportion="0.19827586">
+            <caret line="4" column="5" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/stu/003_easyloader.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5620438">
+          <caret line="25" column="68" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
           <folding />
         </state>
       </provider>
