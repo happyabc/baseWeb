@@ -6,19 +6,19 @@
     <display-name>JdbcConnection</display-name>
     <servlet>
         <servlet-name>UserServlet</servlet-name>
-        <servlet-class>cn.com.orenda.servlet.UserServlet</servlet-class>
+        <servlet-class>com.happyabc.servlet.UserServlet</servlet-class>
     </servlet>
     <servlet>
         <servlet-name>ProvinceServlet</servlet-name>
-        <servlet-class>cn.com.orenda.servlet.ProvinceServlet</servlet-class>
+        <servlet-class>com.happyabc.servlet.ProvinceServlet</servlet-class>
     </servlet>
     <servlet>
         <servlet-name>ResourceServlet</servlet-name>
-        <servlet-class>cn.com.orenda.servlet.ResourceServlet</servlet-class>
+        <servlet-class>com.happyabc.servlet.ResourceServlet</servlet-class>
     </servlet>
     <servlet>
         <servlet-name>OrgServlet</servlet-name>
-        <servlet-class>cn.com.orenda.servlet.OrgServlet</servlet-class>
+        <servlet-class>com.happyabc.servlet.OrgServlet</servlet-class>
     </servlet>
 
 
