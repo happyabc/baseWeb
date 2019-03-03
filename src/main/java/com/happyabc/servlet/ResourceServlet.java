@@ -16,13 +16,13 @@ import java.util.List;
 public class ResourceServlet extends HttpServlet {
 
     private ResourceDao rdao = new ResourceDaoImpl();
-
+    @Override
     public void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         doPost(request, response);
     }
 
-
+    @Override
     public void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         request.setCharacterEncoding("utf-8");
